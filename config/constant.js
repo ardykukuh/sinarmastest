@@ -1,0 +1,1 @@
+module.exports.baseAPI = `http://localhost:8080`

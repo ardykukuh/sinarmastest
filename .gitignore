@@ -1,0 +1,6 @@
+.vscode
+node_modules
+api/uploads
+.env
+*.log
+yarn.lock
