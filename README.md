@@ -1,4 +1,4 @@
-# REST API for Time Capsule
+# REST API for Movie App
 Rest API untuk Test Backend/Sinarmastest
 
 **Base URL** : [`http://localhost:3000`]
