@@ -1,9 +1,9 @@
 # REST API for Time Capsule
-Rest API untuk Test Backend/Dattabot
+Rest API untuk Test Backend/Sinarmastest
 
 **Base URL** : [`http://localhost:3000`]
 
-## Setup the project on cd /dattabot 
+## Setup the project on cd /Sinarmastest 
 1. npm install
 2. setup mysql server on your own db server || Create DBName: 'movieapp_development' 
 3. setup database connection in config/config.json with your database privilage
